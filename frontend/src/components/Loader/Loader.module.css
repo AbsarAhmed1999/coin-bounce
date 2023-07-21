@@ -1,0 +1,9 @@
+.LoaderWrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-top: 10em;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh-400px);   
+}
